@@ -1,0 +1,12 @@
+.time {
+    width: fit-content;
+    font-size: 30px;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+button {
+    width: 80px;
+    height: 50px;
+    font-weight: 700;
+}
